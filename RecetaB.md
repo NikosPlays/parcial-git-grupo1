@@ -1,9 +1,9 @@
-Tortilla de espinacas
+# Tortilla de espinacas
 <br>
 https://images.unsplash.com/photo-1677844592730-ce9c936d8f1a
 <img src="link" alt="Plato de pasta" width="600">
 <br><br>
-Ingredientes
+## Ingredientes
 <br>
 - Doscientos gramos de pasta.
 - Una taza de champiñones laminados.
@@ -12,7 +12,7 @@ Ingredientes
 - Una cucharada de aceite de oliva.
 - Sal y pimienta al gusto.
 <br><br><br>
-Instrucciones
+## Instrucciones
 <br>
 4. ZOFRIHA la cebolla y añada las HEZPINAKAZ.
 <br>
