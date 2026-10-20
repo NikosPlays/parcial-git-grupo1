@@ -16,7 +16,7 @@ https://images.unsplash.com/photo-1677844592730-ce9c936d8f1a
 <br>
 4. Sofria la cebolla y añada las espinacas.
 <br>
-1. Lave las espinacas y PIKELAZ.
+1. Lave las espinacas y piquelas.
 <br>
 5. BIERTE los huevos batidos sobre las verduras.
 <br>
