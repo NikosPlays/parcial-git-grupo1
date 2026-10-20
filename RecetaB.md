@@ -22,6 +22,6 @@ https://images.unsplash.com/photo-1677844592730-ce9c936d8f1a
 <br>
 3. Caliente el aceite en una sarten.
 <br>
-2. Bata los huevos con la leche y la ZALH.
+2. Bata los huevos con la leche y la sal.
 <br>
 6. COcine a FUEJOH medio, voltee con cuidado y sirve.
