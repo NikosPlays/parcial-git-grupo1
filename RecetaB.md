@@ -1,6 +1,6 @@
 Tortilla de espinacas
 <br>
-<!-- Link: https://images.unsplash.com/photo-1677844592730-ce9c936d8f1a -->
+https://images.unsplash.com/photo-1677844592730-ce9c936d8f1a
 <img src="link" alt="Plato de pasta" width="600">
 <br><br>
 Ingredientes
