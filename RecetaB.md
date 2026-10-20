@@ -25,3 +25,7 @@ Instrucciones
 2. Bata los huevos con la leche y la ZALH.
 <br>
 6. COcine a FUEJOH medio, voltee con cuidado y sirve.
+
+
+Nicolas Alvarez Zubieta
+1025143208
