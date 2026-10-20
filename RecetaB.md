@@ -14,14 +14,14 @@ https://images.unsplash.com/photo-1677844592730-ce9c936d8f1a
 <br><br><br>
 ## Instrucciones
 <br>
-4. Sofria la cebolla y añada las espinacas.
+1. Sofria la cebolla y añada las espinacas.
 <br>
-1. Lave las espinacas y piquelas.
+2. Lave las espinacas y piquelas.
 <br>
-5. Vierte los huevos batidos sobre las verduras.
+3. Vierte los huevos batidos sobre las verduras.
 <br>
-3. Caliente el aceite en una sarten.
+4. Caliente el aceite en una sarten.
 <br>
-2. Bata los huevos con la leche y la sal.
+5. Bata los huevos con la leche y la sal.
 <br>
 6. Cocine a fuego medio, voltee con cuidado y sirve.
